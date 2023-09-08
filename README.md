@@ -1,4 +1,4 @@
-# simple-vite-templeta-v3
+# simple-vite-template-v3
 
 本项目详细搭建教程请查看 [Vue3+Vite+Ts 项目搭建](https://webb1an.github.io/blog/article/2023/10.html)
 
