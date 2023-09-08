@@ -23,7 +23,7 @@ function getCurrentTime(): string {
 <template>
   <div class="h-screen w-screen flex flex-col items-center justify-center text-18px font-mono text-slate">
     <img class="animate-rotate mb-10px w-45px" src="/logo.svg" alt="">
-    <HelloWorld msg="大风车吱呀吱哟哟地转" />
+    <HelloWorld msg="大风车吱呀吱哟哟地转~" />
     {{ time }}
   </div>
 </template>
